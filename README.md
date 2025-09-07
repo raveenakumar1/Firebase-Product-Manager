@@ -16,9 +16,7 @@ An Android application to manage products using **Firebase Realtime Database**. 
 
 ## Installation
 
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/raveenakumar1/FirebaseProductManager.git
+1. Clone this repository.
 2. Open the project in Android Studio.
 3. Set up Firebase for your project.
 4. Sync Gradle and build the project.
